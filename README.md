@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Christopher Mariano 😊
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![YouTube Channel ]
+[![Website]]
+[![Twitter Follow]]
 
 ## I'm a BlockChain App Developer / Fullstack Web3 Developer
 
@@ -44,9 +44,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 
-<br />
-<br />
-
 ---
 
 <details>
@@ -55,10 +52,10 @@
   <img align="left" alt="crys-cross GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=crys-cross&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
+<!-- 
 [website]: https://
 [course]: http://
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/ -->
