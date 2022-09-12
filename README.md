@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-PORTFOLIO-blue)](https://odd-bread-0406.on.fleek.co)
 
-## I'm a BlockChain App Developer / Fullstack Web3 Developer
+## I'm a BlockChain Developer / Fullstack Web3 Developer
 
 - 🌱 I’m currently trying to learn and build as much as I can 😁
 - 👯 I’m looking to collaborate and build with others
