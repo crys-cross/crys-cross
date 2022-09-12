@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Christopher Mariano 😊
 
+[![Website](https://img.shields.io/badge/website-PORTFOLIO-blue)](odd-bread-0406.on.fleek.co)
+
 ## I'm a BlockChain App Developer / Fullstack Web3 Developer
 
 - 🌱 I’m currently trying to learn and build as much as I can 😁
@@ -10,14 +12,14 @@
 
 ### Connect with me:
 
-![website](./img/globe-light.svg):&nbsp;mariano.christopher123@gmail.com#gh-light-mode-only
-![website](./img/globe-dark.svg):&nbsp;mariano.christopher123@gmail.com#gh-dark-mode-only
+![website](./img/globe-light.svg#gh-light-mode-only):&nbsp;mariano.christopher123@gmail.com#gh-light-mode-only
+![website](./img/globe-dark.svg#gh-dark-mode-only):&nbsp;mariano.christopher123@gmail.com#gh-dark-mode-only
 
-![website](./img/twitter-light.svg):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-light-mode-only)
-![website](./img/twitter-dark.svg):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-dark-mode-only)
+![website](./img/twitter-light.svg#gh-light-mode-only):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-light-mode-only)
+![website](./img/twitter-dark.svg#gh-dark-mode-only):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-dark-mode-only)
 
-[![website](./img/linkedin-light.svg):&nbsp;[www.linkedin.com/in/marianocrys](www.linkedin.com/in/marianocrys#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg):&nbsp;[www.linkedin.com/in/marianocrys](www.linkedin.com/in/marianocrys#gh-dark-mode-only)
+![website](./img/linkedin-light.svg#gh-light-mode-only):&nbsp;[www.linkedin.com/in/marianocrys](www.linkedin.com/in/marianocrys#gh-light-mode-only)
+![website](./img/linkedin-dark.svg#gh-dark-mode-only):&nbsp;[www.linkedin.com/in/marianocrys](www.linkedin.com/in/marianocrys#gh-dark-mode-only)
 
 ### Languages and Tools:
 
