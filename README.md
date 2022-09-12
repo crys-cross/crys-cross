@@ -25,9 +25,8 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Moralis" width="26px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/xi2ibotrclcxf9njqrfm" style="padding-right:10px;" />
@@ -36,7 +35,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Nextjs" width="26px" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/nextjs.svg" style="padding-right:10px;" />
+<img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/3d170b34b08dabaeda6158e17eee7d32b930f923/public/logos/nextjs.svg" style="padding-right:10px;" />
 
 <br />
 
