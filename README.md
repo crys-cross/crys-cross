@@ -1,10 +1,5 @@
 # Hi there 👋, I'm Christopher Mariano 😊
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
-[![Website]]
-
 ## I'm a BlockChain App Developer / Fullstack Web3 Developer
 
 - 🌱 I’m currently trying to learn and build as much as I can 😁
@@ -15,20 +10,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]
-[![website](./img/globe-dark.svg)]
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)]
-[![website](./img/youtube-dark.svg)]
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)]
-[![website](./img/twitter-dark.svg)]
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]
-[![website](./img/linkedin-dark.svg)]
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]
-[![website](./img/instagram-dark.svg)]
+![website](./img/globe-light.svg):&nbsp;mariano.christopher123@gmail.com#gh-light-mode-only
+![website](./img/globe-dark.svg):&nbsp;mariano.christopher123@gmail.com#gh-dark-mode-only
+
+![website](./img/twitter-light.svg):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-light-mode-only)
+![website](./img/twitter-dark.svg):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-dark-mode-only)
+
+[![website](./img/linkedin-light.svg):&nbsp;[www.linkedin.com/in/marianocrys](www.linkedin.com/in/marianocrys#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg):&nbsp;[www.linkedin.com/in/marianocrys](www.linkedin.com/in/marianocrys#gh-dark-mode-only)
 
 ### Languages and Tools:
 
