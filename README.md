@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Christopher Mariano 😊
 
-[![Website](https://img.shields.io/badge/website-PORTFOLIO-blue)](odd-bread-0406.on.fleek.co)
+[![Website](https://img.shields.io/badge/website-PORTFOLIO-blue)](https://odd-bread-0406.on.fleek.co)
 
 ## I'm a BlockChain App Developer / Fullstack Web3 Developer
 
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-![website](./img/globe-light.svg#gh-light-mode-only):&nbsp;mariano.christopher123@gmail.com#gh-light-mode-only
-![website](./img/globe-dark.svg#gh-dark-mode-only):&nbsp;mariano.christopher123@gmail.com#gh-dark-mode-only
+![website](./img/globe-light.svg#gh-light-mode-only):&nbsp;mariano.christopher123@gmail.com(#gh-light-mode-only)<br />
+![website](./img/globe-dark.svg#gh-dark-mode-only):&nbsp;mariano.christopher123@gmail.com(#gh-dark-mode-only)
 
 ![website](./img/twitter-light.svg#gh-light-mode-only):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-light-mode-only)
 ![website](./img/twitter-dark.svg#gh-dark-mode-only):&nbsp;[@mariano_crys](https://twitter.com/mariano_crys#gh-dark-mode-only)
