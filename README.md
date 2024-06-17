@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently trying to learn and build as much as I can 😁
 - 👯 I’m looking to collaborate and build with others
-- 🥅 2023 Goals: Explore more on Web Development and Web3
+- 🥅 2024 Goals: Explore more on Web Development, Web3 and AI applications
 - ⚡ Fun fact: I love to play video games,watch anime,
   read manga/manhwa and the likes
 
